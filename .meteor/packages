@@ -7,3 +7,5 @@
 meteor-platform
 iron:router
 twbs:bootstrap
+ian:accounts-ui-bootstrap-3
+accounts-password
